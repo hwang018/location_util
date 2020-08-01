@@ -1,2 +1,2 @@
 # location_util
-Toolbox dealing with location data
+A simple example using geohash to find co-location, given lat long location records.
